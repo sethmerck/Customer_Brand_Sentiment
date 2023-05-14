@@ -3,4 +3,4 @@ Sentiment analysis of comments on website (website lacks star rating system). Di
 
 ## How It's Made:
 
-**Tech used:** Python, BeautifulSoup, Pandas, Matplotlib, scikit-learn, fastai
+**Tech used:** Python libraries - BeautifulSoup, Pandas, Matplotlib, scikit-learn
