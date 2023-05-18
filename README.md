@@ -12,4 +12,9 @@ Each brand was given a score between 0 and 1 (0 being completely negative and 1 
 
 Brand names in figure are altered to preserve anonymity.
 
-Only the bottom 5 (0-4) and top 5 (5-9) scoring brands are shown in 'brand_output' chart.
+-- Only the bottom 5 (0-4) and top 5 (5-9) scoring brands are shown in 'brand_output' chart. --
+
+## Results
+
+
+## Optimizations
