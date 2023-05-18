@@ -1,6 +1,6 @@
 # Customer_Brand_Sentiment
 
-Sentiment analysis of comments on e-commerce company website. Discover which products and brands ranked poorly in order to inform buying decisions.
+Sentiment analysis of comments about fishing rod products scraped from various e-commerce websites. Discover which products and brands ranked poorly in order to inform buying decisions.
 
 ## How It's Made:
 
