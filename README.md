@@ -1,5 +1,5 @@
 # Customer_Brand_Sentiment
-Sentiment analysis of comments on e-commerce company website (website lacks rating system). Discover which products and brands ranked poorly in order to inform buying decisions.
+Sentiment analysis of comments on e-commerce company website. Discover which products and brands ranked poorly in order to inform buying decisions.
 
 ## How It's Made:
 
