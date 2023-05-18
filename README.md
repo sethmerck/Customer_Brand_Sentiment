@@ -12,8 +12,6 @@ Each brand was given a score between 0 and 1 (0 being completely negative and 1 
 
 Brand names in figure are numbered to preserve company privacy.
 
--- Only the bottom 5 (0-4) and top 5 (5-9) scoring brands are shown in 'brand_output' chart. --
-
 ## Results
 
 Most brands had above ~60% positive comments, while a few brands had under 50% positive comments. The brand with the highest percentage of positive comments scored at about 78%, while the lowest ranked brand scored at about 13%.
