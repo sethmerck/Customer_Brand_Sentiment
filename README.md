@@ -10,7 +10,7 @@ Using BeautifulSoup, scraped comments from product listings of fishing rods and 
 
 Each brand was given a score between 0 and 1 (0 being completely negative and 1 being completely positive) based on amount of positive and negative comments. For example if a brand had 5 positive comments and 5 negative comments, the brand's score would be 0.5 as half of its comments were positive. Scores and brands then placed in pandas dataframe where they could be easily read into a bar chart using matplotlib library of python.
 
-**Each number represents one brand in the bar chart.**
+**Each number represents one brand in the bar chart. Names of brands are omitted.**
 
 ## Results
 
