@@ -4,13 +4,13 @@ Sentiment analysis of comments about fishing rod products scraped from various e
 
 ## How It's Made:
 
-**Tech used:** Python libraries - BeautifulSoup, Pandas, Matplotlib, scikit-learn
+**Tech used:** Python libraries - BeautifulSoup, Pandas, Matplotlib, scikit-learn, Streamlit
 
 Using BeautifulSoup, scraped comments from product listings of fishing rods and aggregated comments by brand. Information stored in a Python dictionary following the form "{Brand: {Product: [Comments]}}". Then used scikit-learn to perform sentiment analysis on comments. 
 
 Each brand was given a score between 0 and 1 (0 being completely negative and 1 being completely positive) based on amount of positive and negative comments. For example if a brand had 5 positive comments and 5 negative comments, the brand's score would be 0.5 as half of its comments were positive. Scores and brands then placed in pandas dataframe where they could be easily read into a bar chart using matplotlib library of python.
 
-**Each number represents one brand in the bar chart. Names of brands are omitted.**
+**Each number represents one brand in the bar chart**
 
 ## Results
 
