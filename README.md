@@ -19,3 +19,5 @@ Most brands had above ~60% positive comments, while a few brands had under 50% p
 ## Optimizations
 
 Include visualizations for breakdown of comment sentiment within brands to see if certain products of a brand deviate significantly from the overall comment sentiment of that specific brand. This would provide further insight to aid in buying decisions in regards to both brands and the relative popularity of those brands' products.
+
+Automate data pipeline to routinely update visualization as new comments are placed on sites.
