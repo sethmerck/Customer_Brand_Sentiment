@@ -2,7 +2,7 @@
 
 Sentiment analysis of comments about fishing rod products scraped from various e-commerce websites. Discovered which products and brands ranked poorly in order to inform buying decisions.
 
-Link to app - [Link](https://sethmerck-comments.streamlit.app/)
+[Link to app](https://sethmerck-comments.streamlit.app/)
 
 ## How It's Made:
 
