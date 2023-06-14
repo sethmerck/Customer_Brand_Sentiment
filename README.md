@@ -1,6 +1,6 @@
 # Customer_Brand_Sentiment
 
-Sentiment analysis of comments on product listings of fishing rods scraped from various e-commerce websites. Discovered how products and brands ranked in order to inform buying decisions.
+Sentiment analysis of comments on product listings of fishing rods scraped from various e-commerce websites. Discovered customer sentiment about products and brands in order to inform buying decisions.
 
 [Link to app](https://sethmerck-comments.streamlit.app/)
 
