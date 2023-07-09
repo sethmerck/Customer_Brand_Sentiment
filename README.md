@@ -1,4 +1,5 @@
 # Customer_Brand_Sentiment
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sethmerck&label=Profile%20views&color=0e75b6&style=flat" alt="sethmerck" title='Mostly from me' /> </p>
 
 Sentiment analysis of comments on product listings of fishing rods scraped from various e-commerce websites. Discovered customer sentiment about products and brands in order to inform buying decisions.
 
