@@ -6,7 +6,7 @@ Sentiment analysis of comments on product listings of fishing rods scraped from 
 
 ## How It's Made:
 
-**Tech used:** Python libraries - BeautifulSoup, Pandas, Matplotlib, scikit-learn, Streamlit
+**Tech used:** Python libraries - BeautifulSoup, Pandas, Matplotlib, Scikit-Learn, Streamlit
 
 Using BeautifulSoup, scraped comments from product listings of fishing rods and aggregated comments by brand. Information stored in a Python dictionary following the form "{Brand: {Product: [Comments]}}". Then used scikit-learn to perform sentiment analysis on comments. 
 
